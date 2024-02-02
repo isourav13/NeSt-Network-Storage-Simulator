@@ -1,4 +1,4 @@
-# MQSim: A Simulator for Modern NVMe and SATA SSDs
+# NeSt: A QoS Differentiating End-to-End Networked Storage Simulator
 
 
 ## Usage in Linux
